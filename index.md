@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+  <html style="color:red"
+  </style>
+  table {
+    color:blue
+  }
+</style>
+    <head>
+      <title>Первая работа в атоме </title>
+      <meta charset="utf-8">
+      <meta name= "keywords content" content="мой сайт"
+      <meta name="description" content="Этот сайт помогает людям создавать людям собственные сайты">
+      <link rel="shortcut icon" href="http://atom.io/favicon.ico"
+      style=""
+    </head>
+    <body>
+        Первая работа в атоме
+        <H1>Первая работа в атоме  <h1></h1>
+          <h2 style="color:black">Первая работа в атоме <h2></h2>
+          <p id="ideveloper">Первая работа <br>в <em>атоме</p>
+            <p><b>Первая работа <br>в <em>атоме </p>
+          <p><b>первая работа <br>в <em>атоме </p>
+            <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY" target="_blank">ролик
+          <br>
+          <a href="#ideveloper">Якорь на параграф ideveloper</a>
+<ul>
+  <li> Первый элемент списка </li>
+  <li> Второй элемент списка </li>
+  <li> <a href="https://yandex.ru">Yandex</a> ссылка на главную страницу  </li>
+<ul>
 
-You can use the [editor on GitHub](https://github.com/fershd/html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="1" style="color:blue">
+  <thead>
+    <tr>
+      <th>Наименование фрукта</th>
+      <th>Кол-во<th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td>Яблоко</td>
+        <td>2</td>
+      <tr>
+        <tr>
+          <td>Апельсин</td>
+          <td>3</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2">Итог: 5</td>
+        </tr>
+  </tfoot>
 
-### Markdown
+<img src="https://sun9-59.userapi.com/impg/uwSD6eevWhkm8t5H8PCp7IYqpkHtW2JvFPdetg/9vBhdD18B40.jpg?size=200x0&quality=90&crop=560,0,1440,1440&sign=5c15b69ca5c7768d2ea04faac19ac5bf&ava=1" alt="">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fershd/html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<input type="text" name="" value="">
+    </body>
+      </html>
